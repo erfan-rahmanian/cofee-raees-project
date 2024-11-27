@@ -1,0 +1,255 @@
+body {
+    font-family: Shabnam, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .hero-banner {
+    position: relative;
+    height: 400px;
+    background-image: url('https://raeescoffee.com/wp-content/uploads/2024/08/aroma_photo_01.jpg'); /* جایگزین کنید با مسیر تصویر */
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  
+  .banner-title {
+    
+    color: #fff;
+    
+    font-weight: 700;
+    line-height: 1.4em;
+    
+    
+  }
+  .overlay {
+    position: absolute;
+    top: 0;
+    z-index: 2;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* تاریک کردن پس‌زمینه */
+  }
+  .breadcrumb {
+    background-color: transparent;
+    color: #0da542;
+    
+  }
+  .breadcrumb-item a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  .breadcrumb-item.active {
+    color: #0da542;
+  }
+  
+  .social-icons {
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    z-index: 100;
+    margin-right: 30px;
+  }
+  
+  .social-icons a {
+    color: #fff;
+    font-size: 1.5rem;
+    transition: color 0.3s ease;
+  }
+  
+  form{
+    color: #6d6d6d;
+    font-size: 13px;
+  }
+  
+  .form-card {
+    background-image: url('https://www.colorker.com/media/cache/dynamic/rc/Ne9AhCfV//uploads/media/default/0001/04/28ad2effa0560404afa50df7d723fa0b431c6f72.jpeg');
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 700px;
+  }
+  
+  .form-label {
+    
+    color: #6d6d6d;
+  }
+  
+  input[type="file"] {
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    padding: 5px;
+  }
+  
+  button[type="submit"] {
+    background-color: #f9f9f9;
+    border: none;
+    font-size: 13px;
+    color: black;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #ececec;
+    color: black;
+  }
+  button{
+    width: 150px;
+    height: 38px;
+    
+    
+  }
+  .hvhvhvvhv{
+    padding: 100px;
+  }
+
+  .rhdszzzxx{
+   
+   text-align: center;
+   align-items: center;
+   display: flex;
+   justify-content: center;
+   z-index: 10;
+
+  }
+
+  .vertical-text {
+    writing-mode: vertical-rl; /* متن از راست به چپ عمودی */
+    transform: rotate(180deg); /* در صورت نیاز به چرخش متن */
+    text-align: center;
+    color: #fff;
+    padding: 0;
+    height: 200px;
+    font-size: 14px;
+    margin-left: 30px;
+    z-index: 10;
+  }
+
+  .jkhkjjkggf{
+    margin-right: 50px;
+    
+  }
+  .dfdfsdfs{
+    margin-top: 190px;
+    
+  }
+  .aslkfsh{
+    
+    
+    margin-bottom: 20px;
+
+
+}
+.wdawddawd{
+  z-index: 10;
+}
+
+store-section {
+  margin-top: 50px;
+  position: relative;
+}
+
+.store-info {
+  font-size: 16px;
+  line-height: 1.8;
+  margin-bottom: 20px;
+}
+
+.store-info h4 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.store-info .icon {
+  color: green;
+  margin-left: 5px;
+}
+
+.coffee-cup {
+  position: relative;
+  width: 250px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.leaf {
+  position: absolute;
+  width: 80px;
+  height: auto;
+}
+
+.leaf-left {
+  left: 35%;
+  top: 30%;
+}
+
+.leaf-right {
+  right: 35%;
+  top: 30%;
+}
+
+.store-card {
+  margin-bottom: 50px;
+}
+
+.divider {
+  border-top: 1px solid #ccc;
+  margin: 30px 0;
+}
+
+/* Aligning the center image and leaves */
+.center-content {
+  position: relative;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px 0;
+}
+
+/* Style adjustments to card layout */
+
+
+@media (max-width: 768px) {
+  .leaf-left, .leaf-right {
+      width: 50px;
+  }
+
+  .coffee-cup {
+      width: 150px;
+  }
+}
+.hfhhvvh{
+margin-bottom: -450px;
+}
+.kkkkkvghg{
+margin-top: -300px;
+}
+.coffee-cup{
+position: relative;
+width: 600px; /* سایز بزرگ‌تر */
+height: auto; /* تنظیم خودکار ارتفاع */
+margin: 0 auto;
+z-index: -1;
+}
+.store-section{
+margin-top: 200px;
+}
+.mrghtsss{
+margin-right: 200px;
+}
+.ddddafgffe{
+margin-top: -100px;
+}
+a{
+text-decoration: none;
+color: black;
+}

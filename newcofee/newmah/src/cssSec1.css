@@ -1,0 +1,123 @@
+body {
+    direction: rtl;
+    background-color: #f9f9f9;
+    font-family: Shabnam, sans-serif;
+}
+.product-container {
+    margin-top: 20px;
+}
+.product-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.product-details {
+    font-size: 0.9rem;
+    color: #555;
+}
+.product-price {
+    font-size: 1.4rem;
+    color: green;
+    margin-bottom: 20px;
+}
+.btn-buy {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.product-image img {
+    max-width: 85%;
+}
+.feature-list {
+    line-height: 2;
+}
+.product-option {
+    margin-top: 15px;
+}
+.quantity {
+    margin-top: 20px;
+}
+
+.mocono{
+    margin-top: 175px;
+
+    margin-bottom: 100px;
+
+
+}
+
+a{
+    text-decoration: none;
+    color: #555;
+}
+
+.ttttth{
+    margin-right: -65px;
+}
+
+.comparison-box {
+    height: 250px;
+    width: 250px;
+    background-color: #E8E9E9;
+    border: 1px solid #fcfbfb;
+    padding: 0px;
+    text-align: center;
+    border-radius: 0px;
+  
+    margin: 20px;
+}
+
+.comparison-box .share-icon {
+    font-size: 1.2rem;
+    margin-left: 8px;
+}
+
+.comparison-box hr {
+    margin: 15px 0;
+    border-top: 5px solid white;
+    
+}
+
+.comparison-box .delivery-info {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin-bottom: 10px;
+    font-size: 0.95rem;
+}
+
+.comparison-box .delivery-info i {
+    color: green;
+    margin-left: 10px;
+    font-size: 1.2rem;
+}
+.add-compare{
+    margin: 20px;
+}
+.delivery-info{
+    margin: 20px;
+    margin-bottom: 30px;
+}
+
+.fffmmd{
+    width: 340px;
+}
+.bibibb{
+height: 65px ;
+width: 65px;
+margin-top: -75px;
+margin-right: 145px;
+font-size: 30px;
+
+}
+.lsdm{
+   margin-left: 20px;
+   margin-right: 5px;
+}
+
+.ujjjjjj{
+    height: 50px;
+    width: 200px;
+    font-size: 15px;
+}

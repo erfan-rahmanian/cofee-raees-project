@@ -1,0 +1,78 @@
+body {
+    direction: rtl;
+    font-family: Shabnam, sans-serif;
+}
+
+.footer {
+    background-color: #004d25; /* رنگ سبز بخش بالا */
+    color: white;
+    height: 40px;
+    
+}
+
+.footer .footer-top {
+    text-align: right;
+    padding: 10px 0;
+    font-size: small;
+    margin-right: 80px;
+}
+
+ .footer-btn1 {
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #004d25;
+    color: rgb(252, 251, 251);
+    border: 2px solid rgb(249, 250, 249);
+    border-radius: 30px;
+    
+    text-decoration: none;
+}
+
+
+
+.footer-bottom {
+    background-color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.nav-link1 {
+    color: #0d0c0c;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+
+
+.footer-logo img {
+    max-width: 100px;
+    margin: 15px 0;
+}
+
+.footer-top h5 {
+    margin-bottom: 0;
+    font-size: 18px;
+}
+.ldllddldl{
+    margin-top: -30px;
+    
+}
+.fffaaafffee{
+    margin-top: -20px;
+    
+}
+.nav-link1 {
+
+padding: 4px; 
+font-weight: normal;
+}
+.nav-link1:hover{
+color: #004d25;
+} 
+.black-tipe{
+width: 100%;
+background-color: rgb(88, 88, 85);
+height: 1px;
+opacity: 10%;
+}

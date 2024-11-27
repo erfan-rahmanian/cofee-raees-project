@@ -1,0 +1,178 @@
+body {
+  font-family: Shabnam, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.hero-banner {
+  position: relative;
+  height: 400px;
+  background-image: url('https://raeescoffee.com/wp-content/uploads/2024/08/inner_header_02.jpg'); /* جایگزین کنید با مسیر تصویر */
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.banner-title {
+  
+  color: #fff;
+  
+  font-weight: 700;
+  line-height: 1.4em;
+  
+  
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  z-index: 2;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5); /* تاریک کردن پس‌زمینه */
+}
+.breadcrumb {
+  background-color: transparent;
+  color: #0da542;
+  
+}
+.breadcrumb-item a {
+  color: #ffffff;
+  text-decoration: none;
+}
+.breadcrumb-item.active {
+  color: #0da542;
+}
+
+.social-icons {
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  z-index: 100;
+  margin-right: 30px;
+}
+
+.social-icons a {
+  color: #fff;
+  font-size: 1.5rem;
+  transition: color 0.3s ease;
+}
+
+form{
+  
+  color: #6d6d6d;
+  font-size: 13px;
+}
+
+.form-card {
+  background-image: url('https://raeescoffee.com/wp-content/uploads/2024/08/paper_bg.jpg');
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 700px;
+}
+
+.form-label {
+  
+  color: #6d6d6d;
+}
+
+input[type="file"] {
+  border: 1px solid ;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: #f1f1f1;
+  border-color: #f1f1f1;
+}
+
+button[type="submit"] {
+  background-color: #f1f1f1;
+  border-color: #f1f1f1;
+  
+  border: none;
+  font-size: 13px;
+  color: black;
+}
+
+button[type="submit"]:hover {
+  background-color: #ececec;
+  color: black;
+}
+button{
+  width: 150px;
+  height: 38px;
+  
+  
+}
+.hvhvhvvhv{
+  padding: 100px;
+}
+
+.rhdszzzxx{
+ 
+ text-align: center;
+ align-items: center;
+ display: flex;
+ justify-content: center;
+ z-index: 10;
+
+}
+
+.vertical-text {
+  writing-mode: vertical-rl; /* متن از راست به چپ عمودی */
+  transform: rotate(180deg); /* در صورت نیاز به چرخش متن */
+  text-align: center;
+  color: #fff;
+  padding: 0;
+  height: 200px;
+  font-size: 14px;
+  margin-left: 30px;
+  z-index: 10;
+}
+
+.jkhkjjkggf{
+  margin-right: 50px;
+  
+}
+.dfdfsdfs{
+  margin-top: 190px;
+  
+}
+.aslkfsh{
+  
+  
+  margin-bottom: 20px;
+
+
+}
+.wdawddawd{
+z-index: 10;
+}
+.form-control{
+  
+  background-color: #f1f1f1;
+  border-color: #f1f1f1;
+}
+.form-control:focus {
+ 
+  background-color: #f1f1f1;
+  border-color: #f1f1f1;
+  outline: 0;
+  box-shadow: none;
+}
+.form-select{
+  background-color: #f1f1f1;
+  border-color: #f1f1f1;
+}
+.form-select:focus {
+  border-color: #f1f1f1;
+  outline: 0;
+  box-shadow:none;
+}

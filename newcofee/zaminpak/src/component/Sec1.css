@@ -1,0 +1,93 @@
+
+
+
+  
+
+body {
+    font-family: Shabnam, sans-serif;
+    background-color: #f7f7f7;
+  }
+  
+  .hero-section {
+    padding: 50px 0;
+    direction: rtl;
+    text-align: right;
+  }
+  
+  .hero-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #1E5128;
+  }
+  
+  .hero-description {
+    font-size: 1rem;
+    line-height: 1.8;
+    color: #333;
+    margin-top: 20px;
+  }
+  
+  .btn-outline-dark {
+    border-radius: 30px;
+    border: 2px solid #333;
+    padding: 10px 20px;
+    font-size: 1rem;
+  }
+  .btn111:hover {
+    color: black;
+    background-color: #f7f7f7;
+    border-color: var(--bs-btn-hover-border-color);
+}
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  @media (max-width: 768px) {
+    .hero-title {
+      font-size: 2rem;
+    }
+  
+    .hero-description {
+      font-size: 0.9rem;
+    }
+  
+    .hero-section {
+      text-align: center;
+    }
+  }
+  .dskfsfas{
+    margin-left: 500px;
+    font-weight: 600;
+    font-size: 19px;
+    
+  }
+
+  .ewwefwf{
+    margin-left: 400px;
+    margin-top: 25px;
+    color: #1b8245;
+    font-weight: 600;
+  }
+  .akfaafaf{
+    margin-left: 38px;
+    font-family: Shabnam, sans-serif;
+    color: #14522a;
+  }
+  .gfjgufs{
+    margin-left: 300px;
+  }
+
+  .hero-section{
+    margin-top: 150px;
+    margin-bottom: 0px;
+    
+  }
+  .jlnljnmnj{
+    padding-left: 50px;
+    font-size: 14px;
+  }
+  .image1111{
+    margin-top: -40px;
+  }

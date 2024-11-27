@@ -1,0 +1,102 @@
+/* Container اصلی */
+.container {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* استایل برای نوار ناوبری (Breadcrumb) */
+  .breadcrumb {
+    font-size: 14px;
+    color: #888;
+    margin-bottom: 20px;
+  }
+  
+  .breadcrumb a {
+    color: #888;
+    text-decoration: none;
+  }
+  
+  .breadcrumb a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Container محصول */
+  .product-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  /* بخش تصویر محصول */
+  .product-image img {
+    width: 100%;
+    max-width: 350px;
+  }
+  
+  .thumbnails {
+    display: flex;
+    margin-top: 10px;
+  }
+  
+  .thumbnail {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  /* بخش جزئیات محصول */
+  .product-details {
+    max-width: 400px;
+  }
+  
+  .product-details h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .features-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .features-list li {
+    margin-bottom: 8px;
+  }
+  
+  /* قیمت و دکمه افزودن به سبد خرید */
+  .price {
+    font-size: 22px;
+    color: green;
+    margin-top: 20px;
+  }
+  
+  .add-to-cart {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .add-to-cart:hover {
+    background-color: darkgreen;
+  }
+  
+  /* اطلاعات ارسال */
+  .shipping-info {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f8f8f8;
+    border-radius: 5px;
+  }
+  
+  .shipping-info p {
+    margin: 5px 0;
+  }
+
+  .fffdd{
+    margin-top: 220px;
+    margin-right: 100px;
+  }
+  
